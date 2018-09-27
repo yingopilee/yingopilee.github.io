@@ -53,5 +53,5 @@ productCodes : your product list
 
 
 Text following // are comments. They are not required but will help you keep track of what each sku/dpci is.
- 
+
 */
