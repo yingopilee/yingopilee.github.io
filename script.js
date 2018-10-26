@@ -23,7 +23,7 @@
           '087-07-4916  | Team Transports',
           '087-07-2218  | Replica Ent'
         ],
-      'overrrideProductName': true,
+      'overrideProductName': true,
       'showDateTime': true,
       'hand': 'right'
     }
